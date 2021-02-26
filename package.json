@@ -1,0 +1,11 @@
+{
+    "name": "@felipage/tailwind-feli",
+    "version": "1.0.1",
+    "description": "Tailwind Preset for Feli Page",
+    "main": "tailwind.config.js",
+    "author": "Felix Yeung Lai Ting",
+    "license": "MIT",
+    "dependencies": {
+        "tailwindcss": "^2.0.3"
+    }
+}

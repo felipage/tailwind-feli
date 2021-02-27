@@ -1,11 +1,20 @@
 {
     "name": "@felipage/tailwind-feli",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Tailwind Preset for Feli Page",
     "main": "tailwind.config.js",
     "author": "Felix Yeung Lai Ting",
     "license": "MIT",
     "dependencies": {
         "tailwindcss": "^2.0.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/felipage/tailwind-feli.git"
+    },
+    "homepage": "https://github.com/felipage/tailwind-feli#readme",
+    "bugs": {
+        "url": "https://github.com/felipage/tailwind-feli/issues",
+        "email": "bugs@feli.page"
     }
 }

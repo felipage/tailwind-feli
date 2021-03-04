@@ -100,9 +100,10 @@ module.exports = {
     variants: {
         extend: {
             boxShadow: ["active"],
-            textColor: ["active"],
-            backgroundColor: ["active"],
+            textColor: ["active", "disabled"],
+            backgroundColor: ["active", "disabled"],
             zIndex: ["hover"],
+            typography: ["dark"],
         },
     },
     plugins: [
@@ -134,5 +135,6 @@ module.exports = {
                 },
             });
         }),
+        require("@tailwindcss/typography"),
     ],
 };

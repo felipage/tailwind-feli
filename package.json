@@ -1,6 +1,6 @@
 {
     "name": "@felipage/tailwind-feli",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Tailwind Preset for Feli Page",
     "main": "tailwind.config.js",
     "author": "Felix Yeung Lai Ting",

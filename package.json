@@ -6,6 +6,7 @@
     "author": "Felix Yeung Lai Ting",
     "license": "MIT",
     "dependencies": {
+        "@tailwindcss/line-clamp": "^0.2.0",
         "@tailwindcss/typography": "^0.4.0",
         "tailwindcss": "^2.0.3"
     },
